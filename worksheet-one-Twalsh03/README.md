@@ -1,4 +1,4 @@
-# Worksheet on Java Reflection and Java Generics
+# Worksheet on Java Reflection
 
 This worksheet consists of two sections; one on Java Reflection and the other, a refresher on Java Generics.
 You should commit your changes regularly. 
